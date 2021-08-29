@@ -27,6 +27,7 @@ kubectl get services
 kubectl describe rs/hello-node
 kubectl delete service hello-node
 kubectl delete deployment hello-node
+kubectl delete daemonsets,replicasets,services,deployments,pods,rc --all
 ```
 
 
