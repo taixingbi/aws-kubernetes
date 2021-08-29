@@ -17,6 +17,8 @@ kubectl get nodes --watch
 ### run app
 
 #### hello world
+https://kubernetes.io/docs/tutorials/hello-minikube/
+
 ```
 kubectl get deployments
 kubectl get events
@@ -24,7 +26,6 @@ kubectl config view
 kubectl get services
 kubectl delete service hello-node
 kubectl delete deployment hello-node
-https://kubernetes.io/docs/tutorials/hello-minikube/
 ```
 
 
