@@ -14,8 +14,18 @@ kubectl get nodes
 kubectl get nodes --watch
 ```
 
+### run app
+
+#### hello world
+```
+https://kubernetes.io/docs/tutorials/hello-minikube/
+```
+
+
+
 ### reference
 ```
+https://kubernetes.io/docs/setup/
 https://www.youtube.com/watch?v=p6xDCz00TxU
 https://www.youtube.com/watch?v=SsUnPWp5ilc
 ```
