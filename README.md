@@ -24,6 +24,7 @@ kubectl get deployments
 kubectl get events
 kubectl config view
 kubectl get services
+kubectl describe rs/hello-node
 kubectl delete service hello-node
 kubectl delete deployment hello-node
 ```
